@@ -1,0 +1,146 @@
+h1{
+    text-align: center;
+    color: black;
+    font-style:italic ;
+}
+body{
+    background-color:grey;
+    
+}
+#About{
+    color:whitesmoke;
+}
+.topnav{
+    text-align: right;
+    flex: 1;
+    color: whitesmoke;
+
+}
+
+.topnav ul li{
+    list-style: none;
+    display: inline-block;
+    padding: 6px 12px;
+
+}
+
+.topnav ul li a {
+    text-decoration: none;
+    color: white;
+    font-size: medium;
+    font-weight: 200;
+    padding: 2% 8%;
+    color: black;
+     
+
+    
+
+
+}
+h2{
+    text-align: right;
+    color: whitesmoke;
+    font-size: xx-large;
+    font-weight: 100;
+    font-style: italic;
+    padding-top: 10%;
+    
+    }
+    
+    .about{
+        font-size: 70px;
+        text-align: center;
+
+    }
+    .content{
+        color: whitesmoke;
+    }
+        h2{
+        text-align: center;
+    }
+      .web{
+          color: whitesmoke;
+      }
+    
+    
+    h1{
+        text-align: center;
+    }
+    .mine{
+color: whitesmoke;
+    }
+    .page{
+        color: whitesmoke;
+        font-style: italic;
+
+    }
+    .column{
+        float: left;
+        width: 50%;
+
+    }
+    .row::after{
+        content: "";
+        display: table;
+        clear: both;
+
+    }
+    .row{
+        display: flex;
+    }
+    h1{
+     text-align: left;
+    }
+    
+
+   .line{
+       height: 1.5px;
+   } 
+   h3{
+       text-align: center;
+       color: orange;
+       font-size: xx-large;
+   }
+   .WEB{
+       text-align: center;
+       font-size: xx-large;
+       font-style: oblique;
+       color: whitesmoke;
+
+   }
+   h4{
+       color: whitesmoke;
+   }
+   .quote{
+       color: whitesmoke;
+       text-align: center;
+       font-size: xx-large;
+       font-style: italic;
+       color: whitesmoke;
+       font-weight: bolder;
+   }
+   h3{
+       color: whitesmoke;
+       text-align: left;
+   }
+h5{
+    color: orange;
+    text-align: center;
+    font-size: xx-large;
+}
+
+    
+        
+    
+    
+
+      
+      
+      
+
+
+
+
+    
+
+
